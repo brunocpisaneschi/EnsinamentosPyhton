@@ -1,0 +1,1 @@
+print("Por favor, leia o arquivo readme.md")

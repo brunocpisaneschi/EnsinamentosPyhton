@@ -18,6 +18,7 @@ Objetivo desse projeto é contextualizar e ensinar python à outros desenvolvedo
   
   - Desafios:
     - [Calculadora](desafios/calculadora.py);
+    - [Buscador](desafios/buscador.py);
 
   - Desenvolvimentos
     - [Sandbox](desenvolvimentos/sandbox.py) - Espaço voltado para testes e desenvolvimentos dos desafios antes da entrega.
